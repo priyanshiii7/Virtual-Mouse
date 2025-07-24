@@ -1,6 +1,6 @@
 # Virtual Mouse Project 🖱️✋
 
-This project allows you to control your computer's mouse using hand gestures detected via your webcam. It uses Python, OpenCV, Mediapipe for real-time hand tracking, and PyAutoGUI to move the mouse and perform actions like clicks and screenshots.
+This project allows you to control your computer's mouse using hand gestures detected via your webcam. It uses Python, OpenCV, and Mediapipe for real-time hand tracking, and PyAutoGUI to move the mouse and perform actions like clicks and screenshots.
 
 ---
 
@@ -21,4 +21,4 @@ This project allows you to control your computer's mouse using hand gestures det
 - Mediapipe
 - Numpy
 - PyAutoGUI
-- Pynput
+- PyInput
